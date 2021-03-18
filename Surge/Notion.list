@@ -1,8 +1,5 @@
-IP-CIDR,108.162.236.1/24  // Notion,US 
-IP-CIDR,172.64.32.1/24  // Notion,HK 
 IP-CIDR,104.16.160.1/24  // Notion,US 
 IP-CIDR,172.64.0.0/24  // Notion,US 
-IP-CIDR,104.28.14.0/24  // Notion,SG 
 
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
