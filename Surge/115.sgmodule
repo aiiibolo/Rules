@@ -1,5 +1,6 @@
-#115rewrite
-#不是破解只是让iOS和iPad更方便的添加任务
+#!name=115离线下载
+#!desc=115修改签到为离线下载
+#!system=ios
 [URL Rewrite]
 
 # > 115修改签到为离线下载
